@@ -8,8 +8,7 @@
 // Arizona State University, Tempe, AZ 85287-8809
 // Web: Travisashcraft.github.io
 //**************************************************************************************************************
-import javax.swing.JFrame;
-
+import javax.swing.*;
 /**
  * The Main class containing the main() and run() methods.
  */
